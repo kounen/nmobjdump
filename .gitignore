@@ -1,0 +1,17 @@
+.vscode/
+*.o
+my_nm
+my_objdump
+my_nm.txt
+real_nm.txt
+libmy_malloc.so
+libmy.a
+script/a.out
+script/main.c
+my_objdump.txt
+real_objdump.txt
+32bits
+script/truncated
+script/truncated.c
+a.out
+NormEZ.rb
